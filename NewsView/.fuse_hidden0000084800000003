@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>News</title>
+        <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap.min.css">
+        <style>
+            body {width: 100%}
+            table {font-size: 12px;}
+            .news {width: 80%; position: relative; margin: 50px auto;}
+        </style>
+    </head>
+    <body>
+        <section class="news row"><div class="panel panel-default"><div class="panel-heading">News forum</div><div class="panel-body"><p>No hay discusiones</p></div></div><div class="panel panel-default"><div class="panel-heading">News forum</div><table cellspacing="0" class="table"><thead><tr><th class="header topic" scope="col">Discussion</th><th class="header author" colspan="2" scope="col">Started by</th><th class="header group" scope="col">Group</th><th class="header replies" scope="col">Replies</th><th class="header lastpost" scope="col">Last post</th></tr></thead><tbody>
+
+<tr class="discussion r0"><td class="topic starter"><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12694">SHP</a></td>
+<td class="picture"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=4965&amp;course=840"></a></td>
+<td class="author"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=4965&amp;course=840">TICSI-4A_SD2014 FERNANDEZ DEL ANGEL LEO DANIEL</a></td>
+<td class="picture group"><a href="https://b-learning.utcv.edu.mx/user/index.php?id=840&amp;group=4101">TICSI-4A</a></td>
+<td class="replies"><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12694">0</a></td>
+<td class="lastpost"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=4965&amp;course=840">TICSI-4A_SD2014 FERNANDEZ DEL ANGEL LEO DANIEL</a><br><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12694">Mon, 22 Sep 2014, 09:03 pm</a></td>
+</tr>
+
+
+
+<tr class="discussion r1"><td class="topic starter"><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12691">SHP</a></td>
+<td class="picture"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=6452&amp;course=840"></a></td>
+<td class="author"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=6452&amp;course=840">TICSI-4A_SD2014 VILLALBAZO RODRIGUEZ KATIA</a></td>
+<td class="picture group"><a href="https://b-learning.utcv.edu.mx/user/index.php?id=840&amp;group=4101">TICSI-4A</a></td>
+<td class="replies"><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12691">0</a></td>
+<td class="lastpost"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=6452&amp;course=840">TICSI-4A_SD2014 VILLALBAZO RODRIGUEZ KATIA</a><br><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12691">Mon, 22 Sep 2014, 08:59 pm</a></td>
+</tr>
+
+
+
+<tr class="discussion r0"><td class="topic starter"><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12636">SHP</a></td>
+<td class="picture"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=4953&amp;course=840"></a></td>
+<td class="author"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=4953&amp;course=840">TICSI-4A_SD2014 RODRIGUEZ MARTINEZ ANGEL OMAR</a></td>
+<td class="picture group"><a href="https://b-learning.utcv.edu.mx/user/index.php?id=840&amp;group=4101">TICSI-4A</a></td>
+<td class="replies"><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12636">0</a></td>
+<td class="lastpost"><a href="https://b-learning.utcv.edu.mx/user/view.php?id=4953&amp;course=840">TICSI-4A_SD2014 RODRIGUEZ MARTINEZ ANGEL OMAR</a><br><a href="https://b-learning.utcv.edu.mx/mod/forum/discuss.php?d=12636">Mon, 22 Sep 2014, 04:16 pm</a></td>
+</tr>
+
+</tbody></table></div><div class="panel panel-default"><div class="panel-heading">News forum</div><div class="panel-body"><p>No hay discusiones</p></div></div><div class="panel panel-default"><div class="panel-heading">News forum</div><div class="panel-body"><p>No hay discusiones</p></div></div><div class="panel panel-default"><div class="panel-heading">News forum: Noticias sobre actividades</div><div class="panel-body"><p>No hay discusiones</p></div></div><div class="panel panel-default"><div class="panel-heading">News forum</div><div class="panel-body"><p>No hay discusiones</p></div></div></section></body>
+</html>
